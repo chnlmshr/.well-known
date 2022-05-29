@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.clicl_n_pick",
+    "sha256_cert_fingerprints":
+    ["AF:31:81:EC:65:54:E3:4B:21:FA:28:8F:FA:14:5E:8E:D7:16:A6:93:E9:EA:AB:87:4B:3E:3C:0E:24:64:E6:52"]
+  }
+}]
